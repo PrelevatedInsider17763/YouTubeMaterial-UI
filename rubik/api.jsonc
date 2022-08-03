@@ -1,0 +1,10 @@
+{
+    "project-settings-section" : {
+        "set" : {
+            "name": "{name_readonlytextbox:project:api}",
+            "api_key": "{api_key_textinput}",
+            "oauth": "{auth-secret_textinput}",
+            "secret" : "{secret-id_textinput}"
+        }
+    }
+}

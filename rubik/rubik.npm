@@ -1,0 +1,5 @@
+    { 1 },
+    [ 1 ],
+    { 1 },
+    [ 1 ]
+    binary>throw.exception("Errors: Config must be in jsonc format.")

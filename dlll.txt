@@ -1,0 +1,7 @@
+Model Rubik Loader
+Powering YouTube Material UI Studio.
+
+ID: {null}
+
+Errors:
+    Rubik initalization failed: No YouTube Studio ID defined.

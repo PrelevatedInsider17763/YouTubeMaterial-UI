@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.MuiAppBar-root.MuiAppBar-colorPrimary {
+  background: #202122;
+}
+.MuiTypography-h6 img {
+  position: relative;
+}
+
+ul {
+  margin-block: 0;
+  margin-inline: 0;
+  width: 278px;
+  padding-inline: 0;
+}
+
+main {
+  float: right;
+    position: fixed;
+    top: 69px;
+    left: 288px;
+}
+
+.css-1u2w381-MuiModal-root-MuiDrawer-root, .css-4t3x6l-MuiPaper-root-MuiDrawer-paper {
+  top: 64px !important;
+}
+.css-4t3x6l-MuiPaper-root-MuiDrawer-paper {
+  background: #202122 !important;
+  color: white !important;
+}
+
+svg {
+  fill: white !important;
+}
+
+* {
+  font-family: YouTube Sans;
+}
+
+hr {
+  width: 89% !important;
+  background: white;
+  left: 5%;
+  position: relative;
+}
+
+.css-10hburv-MuiTypography-root {
+  font-family: YouTube Sans !important;
+}
+.css-83ijpv-MuiTypography-root {
+  font-family: YouTube Sans !important;
+  color: #ffffff87 !important;
+}
+
+
+.css-i9fmh8-MuiBackdrop-root-MuiModal-backdrop {
+  display: none !important;
+}
+
+svg {
+  fill: white !important;
+}

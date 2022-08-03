@@ -1,0 +1,22 @@
+{
+    /* OS, if Arch and Ubuntu, then load !init */
+    "os" : [ 
+      "Ubuntu",
+      "Arch Linux" 
+    ],
+    "packages" : {
+        "package" : {
+            "name" : "Model Rubik Module",
+            "source" : "mdrubik.deb",
+            "rpm-source" : "mdrubik.rpm",
+            "id" : "G-RUBIK-YTMUI-INIT"
+        }
+    },
+    /* API */
+    "api" : {
+        "name" : "{name}",
+        "api_key" : "{api_key}",
+        "oauth" : "{auth}",
+        "secret" : "{secret-id}"
+    }
+}

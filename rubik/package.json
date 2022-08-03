@@ -1,0 +1,13 @@
+{
+    "name": "model-rubik",
+    "displayName": "Model Rubik Suite",
+    "version": "19.0.20161.41153",
+    "private": false,
+    "os": [
+        "Ubuntu",
+        "Arch Linux",
+        "Windows",
+        "Mac",
+        "Any Linux"
+    ]
+}
