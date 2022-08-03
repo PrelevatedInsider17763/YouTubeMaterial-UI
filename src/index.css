@@ -33,10 +33,10 @@ main {
     left: 288px;
 }
 
-.css-1u2w381-MuiModal-root-MuiDrawer-root, .css-4t3x6l-MuiPaper-root-MuiDrawer-paper {
+.css-wf16b5, .css-y28f86 {
   top: 64px !important;
 }
-.css-4t3x6l-MuiPaper-root-MuiDrawer-paper {
+.css-wf16b5 {
   background: #202122 !important;
   color: white !important;
 }
@@ -65,7 +65,7 @@ hr {
 }
 
 
-.css-i9fmh8-MuiBackdrop-root-MuiModal-backdrop {
+.css-919eu4 {
   display: none !important;
 }
 
