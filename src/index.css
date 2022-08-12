@@ -52,6 +52,11 @@ svg {
   fill: white !important;
 }
 
+.MuiListItemIcon-root svg {
+	fill: none !important;
+	stroke: white;
+}
+
 * {
   font-family: YouTube Sans !important;
 }
