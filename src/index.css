@@ -35,10 +35,9 @@ main {
 
 
 .MuiFab-root {
-  border-radius: 16px;
-  background: black;
-  height: 56px;
-  min-width: 58px;
+  border-radius: 16px !important;
+  background: black !important;
+  height: 56px !important;
 }
 
 .css-wf16b5, .css-y28f86 {
