@@ -34,7 +34,7 @@ main {
 }
 
 
-.MuiFab-root {
+.MuiFab-root,d {
   border-radius: 16px !important;
   background: black !important;
   height: 56px !important;
