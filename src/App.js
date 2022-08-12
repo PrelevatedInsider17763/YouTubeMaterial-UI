@@ -60,6 +60,9 @@ function App() {
       </AppBar>
     </Box>
     <Drawer open="true">
+      <Fab aria-label="add">
+        <AddIcon />
+      </Fab>
     <List>
         {['Home', 'Explore'].map((text, index) => (
           <ListItem key={text} disablePadding>
