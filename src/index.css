@@ -53,7 +53,7 @@ svg {
 }
 
 * {
-  font-family: YouTube Sans;
+  font-family: YouTube Sans !important;
 }
 
 hr {
