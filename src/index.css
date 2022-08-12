@@ -61,6 +61,10 @@ svg {
   font-family: YouTube Sans !important;
 }
 
+.css-1uwabd6:focus {
+  background: #151515;
+}
+
 hr {
   width: 89% !important;
   background: white;
