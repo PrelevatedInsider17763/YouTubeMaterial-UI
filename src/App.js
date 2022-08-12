@@ -32,6 +32,8 @@ import TrendingIcon from '@mui/icons-material/ExploreOutlined'
 import ShortsIcon from '@mui/icons-material/Fireplace'
 import TextField from '@mui/material/TextField'
 import WatchIcon from '@mui/icons-material/WatchLaterOutlined'
+import Fab from '@mui/material/Fab';
+import AddIcon from '@mui/icons-material/Add';
 
 import RecommendedVideos from './RecommendedVideos';
 
