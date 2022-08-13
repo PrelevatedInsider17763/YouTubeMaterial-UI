@@ -35,7 +35,6 @@ const RecommendedVideos = () => {
         const channelId = snippet.channelId;
         const response = await axios
                               .get(`https://www.googleapis.com/youtube/v3/channels?part=snippet&id=${channelId}&key=AIzaSyDDmqlKEDeGAzYjjjE2JC7hDor1wJAmwpc`)
-        const channelImage = response.data.items[0].snippet.thumbnails.medium.url;
 
         const title = snippet.title;
         const image = snippet.thumbnails.medium.url;
@@ -49,8 +48,7 @@ const RecommendedVideos = () => {
           title,
           channel,
           views,
-          timestamp,
-          channelImage
+          timestamp
         });
       };
       setVideoCards(newVideoCards);
