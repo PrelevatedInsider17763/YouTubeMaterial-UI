@@ -5,6 +5,14 @@ recommended {
     padding-bottom: 0;
 }
 
+main {
+    height: 90%;
+    width: 81%;
+    z-index: 100;
+}
+
+.recommendedvideos .css-1kehgcj {margin-top: 308px;margin-left: -70px;}
+
 
 .recommended > h2{
     margin-left: 35px;
