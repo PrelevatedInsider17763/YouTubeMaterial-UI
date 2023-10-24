@@ -16,7 +16,7 @@ const RecommendedVideos = () => {
 
     useEffect(() => {
       axios
-        .get('https://www.googleapis.com/youtube/v3/channels?part=snippet&id=UCrPseYLGpNygVi34QpGNqpA&key=AIzaSyDDmqlKEDeGAzYjjjE2JC7hDor1wJAmwpc')
+        .get('https://www.googleapis.com/youtube/v3/channels?part=snippet&id=UCrPseYLGpNygVi34QpGNqpA&key=AIzaSyAJhn_NPcty4vEHNj-PGFLSvgxNr5r1UOE')
         .then(response => {
           console.log(response.data.items)
           createVideoCards(response.data.items);
